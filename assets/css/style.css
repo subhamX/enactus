@@ -1,0 +1,143 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+html {
+    scroll-behavior: smooth;
+}
+.main-banner{
+    margin-bottom: 3%;
+}
+.team-img img{
+    margin: 7px 0;
+}
+.names-wrapper{
+    margin: 0 auto;
+}
+.names{
+    margin: 5px 0;
+    font-size: 20px;
+    font-weight: 500;
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 90%;
+    padding: 3px;
+}
+
+.container1 .card img{
+    height: 282px;
+    object-fit: fill;
+}
+.card-body{
+    padding: 20px;
+}
+.brand-logo{
+    font-size: 25px !important;
+}
+.container1{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.btn-primary{
+    background: #007BFF; 
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 15px;
+}
+.btn-primary:hover{
+    background: #007BFF; 
+}
+
+.container1 .card{
+    height: 521px;
+    position: relative;
+}
+
+.card-body .card-title{
+    font-weight: bold;
+}
+#projects{
+    min-height: 550px;
+}
+a:hover{
+    color: white !important;
+    font-weight: 600 !important;
+    text-decoration: none;
+}
+
+
+
+.page-footer a:hover{
+    color: rgb(204, 201, 201) !important;
+    font-weight: 600 !important;
+    text-decoration: none;
+}
+.sidenav{
+    padding-top: 50px;
+}
+.sidenav a:hover{
+    color: black !important;
+    font-weight: 600 !important;
+    text-decoration: none;
+}
+
+.page-footer a{
+    color: #BBB;
+}
+.page-footer h5{
+    font-weight: bold;
+}
+.carousel-item img{
+    height: 200px;
+    min-width: 200px;
+}
+.desc{
+    font-size: 1.4em !important;
+}
+@media screen and (max-width:958px){
+    #projects{
+        min-height: 500px;
+    }
+
+}
+@media screen and (max-width:799px){
+    #projects{
+        min-height: 450px;
+    }
+}
+@media screen and (max-width:613px){
+    #projects{
+        min-height: 400px;
+    }
+
+}
+@media screen and (max-width:604px){
+    #projects{
+        min-height: 650px;
+    }
+}@media screen and (max-width:513px){
+    .brand-logo{
+        font-size: 20px !important;
+    }
+}
+@media screen and (max-width:491px){
+    .brand-logo{
+        font-size: 19px !important;
+    }
+
+}
+@media screen and (max-width:436px){
+    .footer-img img{
+        height: 30px !important;
+    }
+    .brand-logo{
+        font-size: 17px !important;
+    }
+}
+
+@media screen and (max-width:359px){
+    .brand-logo{
+        font-size: 15px !important;
+    }
+}
+
