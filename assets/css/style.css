@@ -80,6 +80,9 @@ a:hover{
     font-weight: 600 !important;
     text-decoration: none;
 }
+.sidenav a:visited{
+    color: yellow;
+}
 
 .page-footer a{
     color: #BBB;
