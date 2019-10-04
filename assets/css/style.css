@@ -99,6 +99,10 @@ a:hover{
     color: #ffc221;
 }
 
+#nav-mobile li a:focus {
+    color: #ffc221;
+}
+
 @media screen and (max-width:958px){
     #projects{
         min-height: 500px;
