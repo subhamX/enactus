@@ -68,7 +68,7 @@ a:hover{
 
 
 .page-footer a:hover{
-    color: rgb(204, 201, 201) !important;
+    color: #ffc221 !important;
     font-weight: 600 !important;
     text-decoration: none;
 }
@@ -94,6 +94,11 @@ a:hover{
 .desc{
     font-size: 1.4em !important;
 }
+
+.deep-yellow-text {
+    color: #ffc221 !important;
+}
+
 @media screen and (max-width:958px){
     #projects{
         min-height: 500px;
