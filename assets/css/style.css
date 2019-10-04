@@ -96,7 +96,7 @@ a:hover{
 }
 
 .deep-yellow-text {
-    color: #ffc221 !important;
+    color: #ffc221;
 }
 
 @media screen and (max-width:958px){
