@@ -84,6 +84,10 @@ a:hover{
     color: yellow;
 }
 
+#nav-mobile a:visited{
+    color: yellow;
+}
+
 .page-footer a{
     color: #BBB;
 }
