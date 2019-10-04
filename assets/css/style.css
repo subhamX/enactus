@@ -84,6 +84,11 @@ a:hover{
 .page-footer a{
     color: #BBB;
 }
+
+.page-footer a:hover {
+    color: #ffc220 !important;
+}
+
 .page-footer h5{
     font-weight: bold;
 }
