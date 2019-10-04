@@ -66,7 +66,9 @@ a:hover{
 }
 
 
-
+.page-footer h5{
+    color: yellow;
+}
 .page-footer a:hover{
     color: rgb(204, 201, 201) !important;
     font-weight: 600 !important;
