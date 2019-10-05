@@ -4,6 +4,9 @@
 html {
     scroll-behavior: smooth;
 }
+nav ul a:visited {
+    color: yellow;
+}
 .main-banner{
     margin-bottom: 3%;
 }
