@@ -65,8 +65,6 @@ a:hover{
     text-decoration: none;
 }
 
-
-
 .page-footer a:hover{
     color: rgb(204, 201, 201) !important;
     font-weight: 600 !important;
@@ -83,6 +81,14 @@ a:hover{
 
 .page-footer a{
     color: #BBB;
+}
+
+.page-footer a:hover {
+    color: #ffc220 !important;
+}
+
+.yellow-color {
+    color: #ffc220 !important;
 }
 .page-footer h5{
     font-weight: bold;
