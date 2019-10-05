@@ -84,6 +84,9 @@ a:hover{
 .page-footer a{
     color: #BBB;
 }
+.page-footer a:hover{
+    color: #F2B257 !important;
+}
 .page-footer h5{
     font-weight: bold;
 }
@@ -94,6 +97,7 @@ a:hover{
 .desc{
     font-size: 1.4em !important;
 }
+
 @media screen and (max-width:958px){
     #projects{
         min-height: 500px;
