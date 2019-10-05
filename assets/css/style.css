@@ -81,7 +81,7 @@ a:hover{
     text-decoration: none;
 }
 
-.page-footer a.hovered:hover{
+.page-footer a:hover{
     color: #F2B257;
 }
 
