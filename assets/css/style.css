@@ -65,6 +65,12 @@ a:hover{
     text-decoration: none;
 }
 
+a:visited{
+    color: #FFDF00 !important;
+    font-weight: 600 !important;
+    text-decoration: none !important;
+}
+
 
 
 .page-footer a:hover{
