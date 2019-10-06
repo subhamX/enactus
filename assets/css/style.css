@@ -64,7 +64,9 @@ a:hover{
     font-weight: 600 !important;
     text-decoration: none;
 }
-
+a:visited{
+    color: #F3C33F;
+}
 
 
 .page-footer a:hover{
